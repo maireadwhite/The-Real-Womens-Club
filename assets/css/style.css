@@ -10,3 +10,28 @@
     flex: 1 100;
     border-radius: 10px;
 }
+.header {
+    background-color: rgb(244, 95, 244);
+    height: 100%;
+    color: cornsilk;
+}
+.footer { 
+    background-color: rgb(67, 62, 62);
+    height: 80px;
+    color: cornsilk;
+}
+.main {
+    text-align: left;
+    background-color: rgb(251, 134, 197);
+    height: 300px;
+    font-size: 24px;
+    color: cornsilk;
+}
+.aside1 {
+    background-color: rgb(177, 173, 173);
+    color: cornsilk;
+}
+.aside2 {
+    background-color: rgb(177, 173, 173);
+    color: cornsilk;
+}

@@ -91,6 +91,7 @@ The project was deployed to Github pages via the following steps:
 ## What I would of like to have added 
 
 ## Issues encountered(Bug found and squashed)
+17/05/22 having issue with flex box layout. Layout going across screen and not downways. I have compared code with Flexbox tutorial on Youtube and not seeing any difference. I will keep looking but if not I might try a work around. 
 
 ## Things I tried out. 
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 
