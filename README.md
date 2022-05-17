@@ -45,6 +45,7 @@ Nav Bar
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ### Credits and Acknowledgement
+CI Love running project has been used to guide the structure of this site. 
 #### Code
 #### Content
 #### Media
