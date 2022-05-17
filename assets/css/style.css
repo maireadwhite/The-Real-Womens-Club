@@ -67,13 +67,43 @@
     text-align: right;
     letter-spacing: 4px;
     line-height: 10px;
-    color: inherit;
+    color: cornsilk;
 }
 #menu li {
     list-style-type: none;
     margin-right: 30px;
+    color: cornsilk;
 }
 
 #menu a:hover {
     border-bottom: 2px solid;
+}
+
+#quote {
+    text-align: center;
+    font-size: xx-large;
+}
+#quote-author{
+    text-align: right;
+    margin-right: 50px;
+}
+#hero-image {
+    height: 400px;
+    width: 100%;
+    background: url('/assets/css/images/pexels-thirdman-8485839.jpg') no-repeat center center;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
