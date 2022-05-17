@@ -94,6 +94,7 @@ The project was deployed to Github pages via the following steps:
 17/05/22 having issue with flex box layout. Layout going across screen and not downways. I have compared code with Flexbox tutorial on Youtube and not seeing any difference. I will keep looking but if not I might try a work around. Getting the place settings to go in right spot seems to be a difficulty I have through all projects so far ie love running. I am determined to find out why. 
 image.png 
 image.png
+Fixed positions by moving Div to around asides and article. Tutorial had it around the whole body. Going by tutorial my layout was wrong and would not place correctly. 
 
 ## Things I tried out. 
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 
