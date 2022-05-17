@@ -9,13 +9,15 @@ ____
 ## Site user goals
 ### User experience (UX)
 - First time visitor to the site
-1.
-2.
-3.
+1. Get instant understanding what side is about
+2. Easy accessability to Events and Times
+3. Navigation to register there interest
+
 - Returning visitor to the site
-1.
-2.
-3.
+1. Easy to see updated events
+2. Intriged By updated features
+3. Any pages added have the same flow
+
 - Frequent visitor to the site
 1.
 2.
@@ -76,10 +78,10 @@ Decided to go with flexbox as a layout as it is cleaner and fits better with the
 
 ### Github pages
 The project was deployed to Github pages via the following steps:
-1.
-2.
-3.
-4.
+1. Access github repositories 
+2. Select The Real Womens Club
+3. Settings 
+4. Pages / main / Save
 5.
 
 ### Forking the Github Repositiory 
