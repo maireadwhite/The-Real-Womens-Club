@@ -62,6 +62,18 @@
         flex: 1;
     }
 }
-.menu {
-    
+#menu { 
+    font-size: 120%;
+    text-align: right;
+    letter-spacing: 4px;
+    line-height: 10px;
+    color: inherit;
+}
+#menu li {
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid;
 }

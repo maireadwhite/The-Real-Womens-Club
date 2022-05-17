@@ -101,5 +101,5 @@ Fixed positions by moving Div to around asides and article. Tutorial had it arou
 ## Things I tried out. 
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 
 Decided to go with flexbox as a layout, seems much cleaner layout and seems to fit the style im after. 
-
+Tried different colors to complement each other. 
 
