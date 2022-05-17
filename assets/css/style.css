@@ -15,6 +15,12 @@
     height: 100%;
     color: cornsilk;
 }
+
+#wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
 .footer { 
     background-color: rgb(67, 62, 62);
     height: 80px;
@@ -55,4 +61,7 @@
     .aside {
         flex: 1;
     }
+}
+.menu {
+    
 }
