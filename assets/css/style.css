@@ -35,3 +35,24 @@
     background-color: rgb(177, 173, 173);
     color: cornsilk;
 }
+@media all and (min-width: 800px){
+    .main{
+        flex: 3;
+    }
+    .aside1{
+       order: 1; 
+    }
+    .aside2{order: 2;
+    }
+    .main{ 
+        order: 2;
+    }
+    .footer{
+        order: 4;
+    }
+}
+@media all and (min-width: 600px){
+    .aside {
+        flex: 1;
+    }
+}
