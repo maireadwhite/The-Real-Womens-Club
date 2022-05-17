@@ -6,8 +6,8 @@ It will proivde information and links to live events such as guest speakers givi
 ### [Use this link to view live site] (url)
 
 ____
-
-## User experience (UX)
+## Site user goals
+### User experience (UX)
 - First time visitor to the site
 1.
 2.
@@ -20,6 +20,7 @@ ____
 1.
 2.
 3.
+## Site owner goals
 
 ### Design
 #### Features
@@ -46,6 +47,8 @@ Nav Bar
 
 ### Credits and Acknowledgement
 CI Love running project has been used to guide the structure of this site. 
+Decided to go with flexbox as a layout as it is cleaner and fits better with the site: https://r.search.yahoo.com/_ylt=AwrLFMe7f4NisDcArFYM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652813884/RO=10/RU=https%3a%2f%2fcss-tricks.com%2fsnippets%2fcss%2fa-guide-to-flexbox%2f/RK=2/RS=1EYTvPaiiiiwPIUs07Owb8lGUjc-
+
 #### Code
 #### Content
 #### Media
@@ -91,5 +94,6 @@ The project was deployed to Github pages via the following steps:
 
 ## Things I tried out. 
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 
+Decided to go with flexbox as a layout, seems much cleaner layout and seems to fit the style im after. 
 
 
