@@ -4,7 +4,7 @@
     flex-flow: row wrap;
     text-align: center;
 }
-.wrapper>* {
+.wrapper > * {
     padding: 10px;
     margin: 10px;
     flex: 1 100;
