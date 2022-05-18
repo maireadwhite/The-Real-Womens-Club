@@ -98,6 +98,9 @@ image.png
 image.png
 Fixed positions by moving Div to around asides and article. Tutorial had it around the whole body. Going by tutorial my layout was wrong and would not place correctly. Have manages to position menu tags inline by wrapping them. 
 17/05/22 Navigation set up but somehow lost my menu color
+18/5/22 unable to move submit botton to center/bottom. 
+README file was openening in browser as I had changed the name of the index file to home.html, so i have changed it back agian. 
+
 
 ## Things I tried out. 
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 

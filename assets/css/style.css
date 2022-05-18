@@ -119,3 +119,23 @@
     align-items: center;
     display: flex;
 }
+.flex-outer > li > label
+{
+    flex: 1 0 220px;
+    max-width: 220px;
+}
+.flex-outer > li >label + *{
+    flex: 1 0 220px;
+}
+.flex-outer li  button {
+    padding: 8px 16px;
+    border: none;  
+    background: #333;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    border-radius: 2px; 
+}
+#submit {
+    align-items: center;
+}
