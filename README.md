@@ -50,7 +50,7 @@ Nav Bar
 ### Credits and Acknowledgement
 CI Love running project has been used to guide the structure of this site. 
 Decided to go with flexbox as a layout as it is cleaner and fits better with the site: https://r.search.yahoo.com/_ylt=AwrLFMe7f4NisDcArFYM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652813884/RO=10/RU=https%3a%2f%2fcss-tricks.com%2fsnippets%2fcss%2fa-guide-to-flexbox%2f/RK=2/RS=1EYTvPaiiiiwPIUs07Owb8lGUjc-
-
+using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767 to help create a form page. 
 #### Code
 #### Content
 #### Media
