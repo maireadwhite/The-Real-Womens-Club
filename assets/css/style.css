@@ -169,3 +169,22 @@
 #online-classes {
     text-align: left;
 }
+
+footer {
+    height: 150px;
+}
+
+.footer-icons {
+    text-align: center;
+}
+
+.footer-icons > li {
+    display: inline;
+}
+
+.footer-icons i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
