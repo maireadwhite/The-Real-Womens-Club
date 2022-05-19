@@ -46,11 +46,14 @@ Nav Bar
 - Github
 - Gitpod
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- unsplash
+
 
 ### Credits and Acknowledgement
 CI Love running project has been used to guide the structure of this site. 
 Decided to go with flexbox as a layout as it is cleaner and fits better with the site: https://r.search.yahoo.com/_ylt=AwrLFMe7f4NisDcArFYM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652813884/RO=10/RU=https%3a%2f%2fcss-tricks.com%2fsnippets%2fcss%2fa-guide-to-flexbox%2f/RK=2/RS=1EYTvPaiiiiwPIUs07Owb8lGUjc-
-
+Used Unsplash to download a few images. 
+Used https://ultragraphicsmt.com/how-to-add-video-to-your-website/ to help add video content to aside one. Hoping to use Youtube for the video content. 
 #### Code
 #### Content
 #### Media

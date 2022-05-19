@@ -91,7 +91,7 @@
     text-align: right;
     margin-right: 50px;
 }
-#hero-image {
+#women-image {
     height: 400px;
     width: 100%;
     background: url('/assets/css/images/pexels-thirdman-8485839.jpg') no-repeat center center;
@@ -118,14 +118,17 @@
     flex-wrap: wrap;
     align-items: center;
     display: flex;
+    padding: 10px;
 }
 .flex-outer > li > label
 {
     flex: 1 0 220px;
     max-width: 220px;
+    padding: 10px;
 }
 .flex-outer > li >label + *{
     flex: 1 0 220px;
+   
 }
 .flex-outer li  button {
     padding: 8px 16px;
@@ -134,8 +137,35 @@
     color: #f2f2f2;
     text-transform: uppercase;
     letter-spacing: 0.09em;
-    border-radius: 2px; 
+    border-radius: 4px; 
 }
 #submit {
     align-items: center;
+}
+#submit-position {
+}
+
+#form-style {
+    background-color: rgb(251, 134, 197);
+    color: cornsilk;
+    font-family: Lata, sans-serif;
+    padding: 50px;
+}
+
+/* aside 1*/
+.responsive-video {
+    overflow: hidden;
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.responsive-video iframe {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#online-classes {
+    text-align: left;
 }
