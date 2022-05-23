@@ -23,6 +23,7 @@
     display: flex;
     flex-flow: row wrap;
     text-align: center;
+    justify-content: space-between;
 }
 .footer { 
     background-color: rgb(67, 62, 62);
@@ -73,10 +74,19 @@
     line-height: 10px;
     color: cornsilk;
 }
-#menu li {
+#menu li a {
     list-style-type: none;
     margin-right: 30px;
     color: cornsilk;
+}
+
+.link{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
 }
 
 #menu a:hover {
