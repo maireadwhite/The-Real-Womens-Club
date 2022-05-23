@@ -64,6 +64,7 @@ using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign
 Used Fontawesome to create social media icons. Knowledge gained through love running project. https://fontawesome.com/search?m=free
 
 #### Acknowledgements
+23/05/22 Help recieve form Ger in tutoring to help target my nav links. 
 
 ## Testing 
 - #### [The W3C Markup Validation Service](https://r.search.yahoo.com/_ylt=AwrIdF0wvYJic0EA6hAM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652764081/RO=10/RU=https%3a%2f%2fvalidator.w3.org%2f/RK=2/RS=4rnVYarOHDPGgEgsySE4uTvHki8-) Results

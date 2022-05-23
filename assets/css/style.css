@@ -73,11 +73,18 @@
     letter-spacing: 4px;
     line-height: 10px;
     color: cornsilk;
+    
 }
 #menu li a {
     list-style-type: none;
     margin-right: 30px;
     color: cornsilk;
+
+   
+
+}
+ul {
+    list-style-type: none;
 }
 
 .link{
@@ -185,7 +192,7 @@ footer {
 }
 
 .footer-icons {
-    text-align: center;
+    justify-content: space-between;
 }
 
 .footer-icons > li {
