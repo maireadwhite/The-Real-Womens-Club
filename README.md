@@ -110,6 +110,7 @@ Fixed positions by moving Div to around asides and article. Tutorial had it arou
 17/05/22 Navigation set up but somehow lost my menu color
 18/5/22 unable to move submit botton to center/bottom. 
 README file was openening in browser as I had changed the name of the index file to home.html, so i have changed it back agian. 
+23/05/22 I could not get social media icons to show on footer. Realised I had downloaded version 5, but using version 6 icons 
 
 
 ## Things I tried out. 

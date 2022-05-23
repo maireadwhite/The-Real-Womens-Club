@@ -3,7 +3,7 @@
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    color: cornsilk;
+    
    e
 }
 .wrapper > * {
@@ -24,6 +24,7 @@
     flex-flow: row wrap;
     text-align: center;
     justify-content: space-between;
+    color: cornsilk;
 }
 .footer { 
     background-color: rgb(67, 62, 62);
@@ -189,6 +190,7 @@ ul {
 
 footer {
     height: 150px;
+    margin: 0;
 }
 
 .footer-icons {
@@ -196,12 +198,47 @@ footer {
 }
 
 .footer-icons > li {
-    display: inline;
+    display: inline-flex;
+    justify-content: space-evenly;
+
+    
+    text-align: center;
 }
 
 .footer-icons i {
     font-size: 160%;
-    margin: 1%;
+    margin: 20px;
     padding: 5%;
-    color: #3a3a3a;
+   color: cornsilk;
+   align-items: center;
+  
+}
+
+.table {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: cornsilk;
+    background-color: rgb(251, 134, 197);
+    padding-left: 20%;
+    padding-right: 20%;
+    height: 50vh;
+    font-size: larger; 
+    padding: 5px;
+
+}
+
+table {
+    width: 100%;
+    border: 3px solid cornsilk;
+    
+}
+
+td {
+    border: 3px solid cornsilk;   
+}
+
+th {
+    border: 3px solid cornsilk;
+    background-color: rgb(150, 124, 139);
 }
