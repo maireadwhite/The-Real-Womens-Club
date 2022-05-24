@@ -3,7 +3,7 @@
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    background-color: rgb(182, 178, 178);
+    
     margin: 0;
     
    
@@ -19,6 +19,7 @@
     background-color: rgb(67, 62, 62);
     height: 100%;
     color: cornsilk;
+
 }
 
 #wrapper {
@@ -39,15 +40,19 @@
     height: 300px;
     font-size: 24px;
     color: cornsilk;
+    border-radius: 25px;
+    margin-bottom: 10px;
 
 }
 .aside1 {
     background-color: rgb(177, 173, 173);
     color: cornsilk;
+    border-radius: 25px;
 }
 .aside2 {
     background-color: rgb(177, 173, 173);
     color: cornsilk;
+    border-radius: 25px;
 }
 #aside2 {
     color: cornsilk; 
@@ -163,7 +168,7 @@ ul {
 .flex-outer li  button {
     padding: 8px 16px;
     border: none;  
-    background: #333;
+    background: rgb(67, 62, 62);
     color: #f2f2f2;
     text-transform: uppercase;
     letter-spacing: 0.09em;
