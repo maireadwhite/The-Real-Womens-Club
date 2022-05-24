@@ -4,6 +4,7 @@
     flex-flow: row wrap;
     text-align: center;
     background-color: rgb(182, 178, 178);
+    margin: 0;
     
    
 }
@@ -118,15 +119,17 @@ ul {
     background-size: cover;
     padding-bottom: 5px;
     overflow: hidden;
+    position: relative;
+   
 
     /* animates zoom effect on loading page */
-    animation-name: hero-zoom;
+    animation-name: women-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-/* creates the level of zoom for hero image */
-@keyframes hero-zoom {
+/* creates the level of zoom for woman image */
+@keyframes women-zoom {
     from{
         transform: scale(1);
     }
@@ -164,8 +167,6 @@ ul {
 }
 #submit {
     align-items: center;
-}
-#submit-position {
 }
 
 #form-style {
