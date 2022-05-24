@@ -117,6 +117,7 @@ ul {
     background-position: top;
     background-size: cover;
     padding-bottom: 5px;
+    overflow: hidden;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
