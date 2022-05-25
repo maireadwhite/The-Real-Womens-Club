@@ -179,6 +179,11 @@ ul {
     list-style-type: none;
 }
 
+#submit-position {
+    display: flex;
+    align-self: center;
+}
+
 
 #form-style {
     background-color: rgb(251, 134, 197);
