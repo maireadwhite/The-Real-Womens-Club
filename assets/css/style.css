@@ -43,6 +43,7 @@
     color: cornsilk;
     border-radius: 25px;
     margin-bottom: 10px;
+   text-align: center;
 
 }
 .aside1 {
@@ -54,9 +55,11 @@
     background-color: rgb(177, 173, 173);
     color: cornsilk;
     border-radius: 25px;
+    text-align: center;
 }
 #aside2 {
     color: cornsilk; 
+    text-align: center;
 }
 @media all and (min-width: 800px){
     .main{
