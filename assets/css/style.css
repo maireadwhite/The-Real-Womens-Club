@@ -19,6 +19,7 @@
     background-color: rgb(67, 62, 62);
     height: 100%;
     color: cornsilk;
+    padding-left: 20px;
 
 }
 
@@ -218,6 +219,19 @@ footer {
     position: sticky;
     bottom:0;
     width: 100%;
+}
+#footer-links {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#footer-register {
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-top: 20px;
+
 }
 
 .footer-icons {
