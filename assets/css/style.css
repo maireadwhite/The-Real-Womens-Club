@@ -182,6 +182,7 @@ ul {
 #submit-position {
     display: flex;
     align-self: center;
+    justify-content: center;
 }
 
 
