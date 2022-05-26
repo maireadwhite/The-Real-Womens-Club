@@ -55,16 +55,22 @@ Decided to go with flexbox as a layout as it is cleaner and fits better with the
 <<<<<<< HEAD
 Used Unsplash to download a few images. 
 Used https://ultragraphicsmt.com/how-to-add-video-to-your-website/ to help add video content to aside one. Hoping to use Youtube for the video content. 
+![image](https://user-images.githubusercontent.com/103965781/170588474-5e6c036a-bee2-4639-bf75-f69a4cc275cf.png)
 =======
-using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767 to help create a form page. 
+
+
+using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767 to help create a form page. ![image](https://user-images.githubusercontent.com/103965781/170588743-ddbb6823-280b-4771-b9fe-895603b44580.png)
 >>>>>>> 6d94d70d03ae519967b8b910087a21a38c770241
 #### Code
 #### Content
 #### Media
 Used Fontawesome to create social media icons. Knowledge gained through love running project. https://fontawesome.com/search?m=free
+![image](https://user-images.githubusercontent.com/103965781/170589023-eb372d26-3b59-45fd-9d72-d5427a321ad4.png)
 
 #### Acknowledgements
 23/05/22 Help recieve form Ger in tutoring to help target my nav links. 
+Massive thanks to Kaisia and Kenan for all their support and help. 
+Thanks to my amazing mentor Chris Quinn. 
 
 ## Testing 
 - #### [The W3C Markup Validation Service](https://r.search.yahoo.com/_ylt=AwrIdF0wvYJic0EA6hAM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652764081/RO=10/RU=https%3a%2f%2fvalidator.w3.org%2f/RK=2/RS=4rnVYarOHDPGgEgsySE4uTvHki8-) Results
