@@ -1,20 +1,21 @@
-
 .wrapper {
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    
+
     margin: 0;
-    
-   
+
+
 }
-.wrapper > * {
+
+.wrapper>* {
     padding: 10px;
     margin: 10px;
     flex: 1 100;
     border-radius: 10px;
     color: cornsilk;
 }
+
 .header {
     background-color: rgb(67, 62, 62);
     height: 100%;
@@ -30,11 +31,13 @@
     justify-content: space-between;
     color: cornsilk;
 }
-.footer { 
+
+.footer {
     background-color: rgb(67, 62, 62);
     height: 80px;
     color: cornsilk;
 }
+
 .main {
     text-align: left;
     background-color: rgb(251, 134, 197);
@@ -43,66 +46,79 @@
     color: cornsilk;
     border-radius: 25px;
     margin-bottom: 10px;
-   text-align: center;
+    text-align: center;
 
 }
+
 .aside1 {
     background-color: rgb(177, 173, 173);
     color: cornsilk;
     border-radius: 25px;
 }
+
 .aside2 {
     background-color: rgb(177, 173, 173);
     color: cornsilk;
     border-radius: 25px;
     text-align: center;
 }
+
 #aside2 {
-    color: cornsilk; 
+    color: cornsilk;
     text-align: center;
 }
-@media all and (min-width: 800px){
-    .main{
+
+@media all and (min-width: 800px) {
+    .main {
         flex: 3;
     }
-    .aside1{
-       order: 1; 
+
+    .aside1 {
+        order: 1;
     }
-    .aside2{order: 2;
-    }
-    .main{ 
+
+    .aside2 {
         order: 2;
     }
-    .footer{
+
+    .main {
+        order: 2;
+    }
+
+    .footer {
         order: 4;
     }
 }
-@media all and (min-width: 600px){
+
+@media all and (min-width: 600px) {
     .aside {
         flex: 1;
     }
 }
-#menu { 
+
+#menu {
     font-size: 120%;
     text-align: right;
     letter-spacing: 4px;
     line-height: 10px;
     color: cornsilk;
-    
+
 }
+
 #menu li a {
     list-style-type: none;
     margin-right: 30px;
     color: cornsilk;
 
-   
+
 
 }
+
 ul {
     list-style-type: none;
 }
 
-.link{
+.link {
     color: cornsilk;
     text-decoration: none;
 }
@@ -119,10 +135,16 @@ ul {
     text-align: center;
     font-size: xx-large;
 }
-#quote-author{
+
+#quote-author {
     text-align: right;
     margin-right: 50px;
 }
+
+.what {
+    text-align: center;
+}
+
 #women-image {
     height: 400px;
     width: 100%;
@@ -132,7 +154,7 @@ ul {
     padding-bottom: 5px;
     overflow: hidden;
     position: relative;
-   
+
 
     /* animates zoom effect on loading page */
     animation-name: women-zoom;
@@ -143,10 +165,11 @@ ul {
 
 /* creates the level of zoom for woman image */
 @keyframes women-zoom {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
     }
 }
@@ -160,25 +183,28 @@ ul {
     padding: 10px;
     height: max-content;
 }
-.flex-outer > li > label
-{
+
+.flex-outer>li>label {
     flex: 1 0 220px;
     max-width: 220px;
     padding: 10px;
 }
-.flex-outer > li >label + *{
+
+.flex-outer>li>label+* {
     flex: 1 0 220px;
-   
+
 }
-.flex-outer li  button {
+
+.flex-outer li button {
     padding: 8px 16px;
-    border: none;  
+    border: none;
     background: rgb(67, 62, 62);
     color: #f2f2f2;
     text-transform: uppercase;
     letter-spacing: 0.09em;
-    border-radius: 4px; 
+    border-radius: 4px;
 }
+
 #submit {
     align-items: center;
     list-style-type: none;
@@ -205,6 +231,7 @@ ul {
     height: 0;
     padding-bottom: 56.25%;
 }
+
 .responsive-video iframe {
     height: 100%;
     width: 100%;
@@ -212,24 +239,29 @@ ul {
     left: 0;
     top: 0;
 }
+
 #online-classes {
-    text-align: left;
-   
+    text-align: center;
+    font-size: x-large;
+    padding-top: 3vh;
+
 }
 
 footer {
     height: 150px;
     margin: 0;
     position: sticky;
-    bottom:0;
+    bottom: 0;
     width: 100%;
 }
+
 #footer-links {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     padding-top: 20px;
     padding-left: 10px;
 }
+
 #footer-register {
     padding-left: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -242,11 +274,11 @@ footer {
     justify-content: space-between;
 }
 
-.footer-icons > li {
+.footer-icons>li {
     display: inline-flex;
     justify-content: space-evenly;
 
-    
+
     text-align: center;
 }
 
@@ -254,9 +286,9 @@ footer {
     font-size: 160%;
     margin: 20px;
     padding: 5%;
-   color: cornsilk;
-   align-items: center;
-  
+    color: cornsilk;
+    align-items: center;
+
 }
 
 .table {
@@ -268,7 +300,7 @@ footer {
     padding-left: 20%;
     padding-right: 20%;
     height: 80vh;
-    font-size: larger; 
+    font-size: larger;
     padding: 5px;
 
 }
@@ -276,11 +308,11 @@ footer {
 table {
     width: 100%;
     border: 3px solid cornsilk;
-    
+
 }
 
 td {
-    border: 3px solid cornsilk;   
+    border: 3px solid cornsilk;
 }
 
 th {
