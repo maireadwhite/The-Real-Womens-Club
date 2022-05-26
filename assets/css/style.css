@@ -165,6 +165,7 @@ ul {
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
+
 #women-header {
     text-align: center;
     margin: 6vh;
@@ -172,17 +173,6 @@ ul {
     color: rgb(67, 62, 62);
 }
 
-
-/* creates the level of zoom for woman image */
-@keyframes women-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-}
 
 /* registration page */
 

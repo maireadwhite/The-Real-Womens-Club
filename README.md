@@ -19,7 +19,7 @@ ____
 3. Any pages added have the same flow
 
 - Frequent visitor to the site
-1.
+1. Ease of use
 2.
 3.
 ## Site owner goals
@@ -47,6 +47,8 @@ Nav Bar
 - Gitpod
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 - unsplash
+- stack flow
+-W3Schools
 
 
 ### Credits and Acknowledgement
@@ -76,22 +78,54 @@ Thanks to my amazing mentor Chris Quinn.
 - #### [The W3C Markup Validation Service](https://r.search.yahoo.com/_ylt=AwrIdF0wvYJic0EA6hAM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652764081/RO=10/RU=https%3a%2f%2fvalidator.w3.org%2f/RK=2/RS=4rnVYarOHDPGgEgsySE4uTvHki8-) Results
 - #### [W3C CSS Validater](https://r.search.yahoo.com/_ylt=AwrIdFwhvoJillUA6kkM34lQ;_ylu=Y29sbwNpcjIEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1652764321/RO=10/RU=https%3a%2f%2fvalidator.w3.org%2findex.html/RK=2/RS=dEa3BrV98OJMT0yoJhqZlnxvmb8-) Results
 
+Tested via lighthouse
+
+![image](https://user-images.githubusercontent.com/103965781/170591470-65b84699-c470-4cee-8b76-66c048d9fe8f.png)
+
+![image](https://user-images.githubusercontent.com/103965781/170591642-2d774b02-4d66-477f-af0a-a01613028543.png)
+
+![image](https://user-images.githubusercontent.com/103965781/170591710-858623c4-faf5-4c72-820f-bb51fda0b361.png)
+
+http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fmaireadwhite.github.io%2FThe-Real-Womens-Club%2Fregister.html&usermedium=all&vextwarning=&warning=1
+
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+            
+            <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
 
 ### Testing UX goals
 - 
 1. Tested websites responsiveness via [Bytes](https://ui.dev/amiresponsive)
-2.
-3.
--
-1.
-2.
-3.
--
-1.
-2.
-3.
+2. Switched image text and main flexbox text to make it quicker for a first time user to understand sites goal. 
+3. Class tab is in clear nav bar at top and opens directly. No other info on page to distract. But clear statement that only registered members will get acces to timetable of events. 
+![image](https://user-images.githubusercontent.com/103965781/170592797-1068bc1e-cf4a-4179-8697-aab588a6fbee.png)
+
+![image](https://user-images.githubusercontent.com/103965781/170592888-5f77e1f2-26cf-42ed-8a47-6225ec6d3685.png)
+Direct access to register via Navigational menu tab. Required input fields. 
+
+![image](https://user-images.githubusercontent.com/103965781/170592987-1af88f8f-eb68-4258-bee1-02a0fde8a05d.png)
+![image](https://user-images.githubusercontent.com/103965781/170593810-78333134-d122-47a1-ae27-fa27fb97bfa5.png)
+
+Social media links accessible on the footer of every page making it easier for visitors to search more information. 
+Layout remains the same  acrosss the three pages.
+
 
 ## Deployment
+
+Deployed on github. 
 
 ### Github pages
 The project was deployed to Github pages via the following steps:
@@ -99,7 +133,6 @@ The project was deployed to Github pages via the following steps:
 2. Select The Real Womens Club
 3. Settings 
 4. Pages / main / Save
-5.
 
 ### Forking the Github Repositiory 
 
@@ -118,6 +151,12 @@ Fixed positions by moving Div to around asides and article. Tutorial had it arou
 18/5/22 unable to move submit botton to center/bottom. 
 README file was openening in browser as I had changed the name of the index file to home.html, so i have changed it back agian. 
 23/05/22 I could not get social media icons to show on footer. Realised I had downloaded version 5, but using version 6 icons 
+26/055/22 When all changes were made to clean site image from main page is not showing on deployed site. 
+![image](https://user-images.githubusercontent.com/103965781/170590935-0e39c94d-3cb3-447a-999f-d98fb42e264c.png)
+
+![image](https://user-images.githubusercontent.com/103965781/170591150-fdf12607-1e5d-4601-bec9-d7f69bd88a84.png)
+
+I have tried the pathways but they dont seem to be the issue. 
 
 
 ## Things I tried out. 
