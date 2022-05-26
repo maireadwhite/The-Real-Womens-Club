@@ -140,6 +140,7 @@ ul {
     animation-fill-mode: forwards;
 }
 
+
 /* creates the level of zoom for woman image */
 @keyframes women-zoom {
     from{
