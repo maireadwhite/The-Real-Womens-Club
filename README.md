@@ -1,9 +1,12 @@
 # The Real Womens Club
+
+![image](https://user-images.githubusercontent.com/103965781/170601460-480c6665-8942-49fb-b007-126f8a0f58a4.png)
+
 This website is created with real women in mind. It is a unique meeting place for free minded people to enlighten, boost and appreciate each other. 
 
 It will proivde information and links to live events such as guest speakers giving webiners to yoga classes. 
 
-### [Use this link to view live site] (url)
+### [Use this link to view live site] (https://maireadwhite.github.io/The-Real-Womens-Club/)
 
 ____
 ## Site user goals
@@ -20,17 +23,20 @@ ____
 
 - Frequent visitor to the site
 1. Ease of use
-2.
-3.
+2. Easy on the eye. 
+
 ## Site owner goals
+We strive to entice visitors to register to become a member. 
+We want the visitors to feel a sense of power yet calm. 
 
 ### Design
 #### Features
-describe features ie navigation and how it helps your visitors achieve their goal
-eg Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+Nav menu contains dfull responsive navigation bar with links to classes, home and Register. It is Featured on all three pages in the header. It is not cluttered and well presented color wise. 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 Nav Bar
-### Technologies used
+Footer contains links to social media sites on every page. making it ease of use to find more information whilst keeping the site clean and clutter free. 
+The aside 1 has a youtube video promoting women in technology, the aim would be to keep this updated every week to stay fresh. 
+The aside 2 has a link directly to the classes page to make it more accessible. The classes page has two statements to direct traffic to register, if they want to know more. The main aim of the Site owner is to get members. 
 
 #### Languages used 
 1. [HTML](https://r.search.yahoo.com/_ylt=AwrIN6VpuoJiPk4AkiUM34lQ;_ylu=Y29sbwNpcjIEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1652763369/RO=10/RU=https%3a%2f%2fhtml.com%2f/RK=2/RS=IIYFp43LPCv.N_tAoOqwyH3b_6M-)
@@ -63,8 +69,10 @@ Used https://ultragraphicsmt.com/how-to-add-video-to-your-website/ to help add v
 
 using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767 to help create a form page. ![image](https://user-images.githubusercontent.com/103965781/170588743-ddbb6823-280b-4771-b9fe-895603b44580.png)
 >>>>>>> 6d94d70d03ae519967b8b910087a21a38c770241
-#### Code
+
 #### Content
+content is clean and uncluttered. The site should be a landing site to entice visitors to register. 
+
 #### Media
 Used Fontawesome to create social media icons. Knowledge gained through love running project. https://fontawesome.com/search?m=free
 ![image](https://user-images.githubusercontent.com/103965781/170589023-eb372d26-3b59-45fd-9d72-d5427a321ad4.png)
@@ -97,7 +105,7 @@ http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3
     </a>
 </p>
             
-            <p>
+<p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -109,6 +117,7 @@ http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3
 ### Testing UX goals
 - 
 1. Tested websites responsiveness via [Bytes](https://ui.dev/amiresponsive)
+![image](https://user-images.githubusercontent.com/103965781/170603189-b91f5ddf-9bfc-4990-8b5e-3d429ff5cd39.png)
 2. Switched image text and main flexbox text to make it quicker for a first time user to understand sites goal. 
 3. Class tab is in clear nav bar at top and opens directly. No other info on page to distract. But clear statement that only registered members will get acces to timetable of events. 
 ![image](https://user-images.githubusercontent.com/103965781/170592797-1068bc1e-cf4a-4179-8697-aab588a6fbee.png)
@@ -134,13 +143,11 @@ The project was deployed to Github pages via the following steps:
 3. Settings 
 4. Pages / main / Save
 
-### Forking the Github Repositiory 
-
-### Making a local Clone
-
 ## what works well
+Table turned out well and so did form. I dont think I was fully ready to use flex box and had to learn along the way. 
 
 ## What I would of like to have added 
+Better images, Video etc. Keep having issues with size and animation. Had to take the animation out in the end. 
 
 ## Issues encountered(Bug found and squashed)
 17/05/22 having issue with flex box layout. Layout going across screen and not downways. I have compared code with Flexbox tutorial on Youtube and not seeing any difference. I will keep looking but if not I might try a work around. Getting the place settings to go in right spot seems to be a difficulty I have through all projects so far ie love running. I am determined to find out why. 
@@ -163,4 +170,5 @@ I have tried the pathways but they dont seem to be the issue.
 Tried differnet font sizes for menu tabs at the begining. Have decided to leave at 100% until more work is done to site. 
 Decided to go with flexbox as a layout, seems much cleaner layout and seems to fit the style im after. 
 Tried different colors to complement each other. 
+Tried lots of pics to try fill main page. 
 
