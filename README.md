@@ -60,18 +60,12 @@ The aside 2 has a link directly to the classes page to make it more accessible. 
 ### Credits and Acknowledgement
 CI Love running project has been used to guide the structure of this site. 
 Decided to go with flexbox as a layout as it is cleaner and fits better with the site: https://r.search.yahoo.com/_ylt=AwrLFMe7f4NisDcArFYM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1652813884/RO=10/RU=https%3a%2f%2fcss-tricks.com%2fsnippets%2fcss%2fa-guide-to-flexbox%2f/RK=2/RS=1EYTvPaiiiiwPIUs07Owb8lGUjc-
-<<<<<<< HEAD
 Used Unsplash to download a few images. 
 Used https://ultragraphicsmt.com/how-to-add-video-to-your-website/ to help add video content to aside one. Hoping to use Youtube for the video content. 
 ![image](https://user-images.githubusercontent.com/103965781/170588474-5e6c036a-bee2-4639-bf75-f69a4cc275cf.png)
-=======
-
-
-using W3Schools https://www.w3schools.com/css/css_form.asp and https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767 to help create a form page. ![image](https://user-images.githubusercontent.com/103965781/170588743-ddbb6823-280b-4771-b9fe-895603b44580.png)
->>>>>>> 6d94d70d03ae519967b8b910087a21a38c770241
 
 #### Content
-content is clean and uncluttered. The site should be a landing site to entice visitors to register. 
+Content is clean and uncluttered. The site should be a landing site to entice visitors to register. 
 
 #### Media
 Used Fontawesome to create social media icons. Knowledge gained through love running project. https://fontawesome.com/search?m=free
